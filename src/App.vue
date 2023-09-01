@@ -4,11 +4,6 @@
     <router-view class='app-main' />
   </section>
 </template>
-<style>
-  main {
-    background-image: url('./assets/');
-  }
-</style>
 
 <script setup>
 import { ref, onMounted } from 'vue';
