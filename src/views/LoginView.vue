@@ -1,7 +1,9 @@
 <template>
   <div
     class="body-bg min-h-screen pt-12 md:pt-20 pb-6 px-2 md:px-0"
-    style="font-family: 'Lato', sans-serif"
+    style="font-family: 'Lato', sans-serif;
+    background-image: url('https://www.campaignmonitor.com/wp-content/uploads/2017/08/This-image-features-a-laptop-and-list-Its-the-cover-photo-for-our-22growing-engaged-lists22-Campaign-Monitor-blog-post.jpg');
+    background-size: cover; background-position: center;"
   >
     <div
       class="bg-white max-w-lg mx-auto p-8 md:p-12 my-10 rounded-lg shadow-2xl"
