@@ -57,7 +57,7 @@
             >
           </div>
           <button
-            class="bg-red-600 hover:bg-red-700 text-white font-bold py-2 rounded shadow-lg
+            class="bg-gray-600 hover:bg-red-700 text-white font-bold py-2 rounded shadow-lg
             hover:shadow-xl transition duration-200"
             type="submit"
           >

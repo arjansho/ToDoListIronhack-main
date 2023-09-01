@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-green-600 text-white">
+  <header class="bg-gray-600 text-white">
     <nav class="py-5 px-4 flex flex-col gap-4 items-center sm:flex-row">
       <div class="flex items-center gap-x-4">
         <h1 class="text-[14px], font-bold text-center ">TO DO LIST</h1>

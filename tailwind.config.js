@@ -5,7 +5,7 @@ module.exports = {
       './src/**/*.{vue,js,ts,jsx,tsx}',
     ],
     daisyui: {
-      themes: ["retro"],
+      themes: ["garden"],
       extend: {
         backgroundImage: {
           'hero-pattern': "url('./src/assets/34ze2yT01.svg')",
