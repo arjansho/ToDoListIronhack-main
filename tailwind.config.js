@@ -4,8 +4,8 @@ module.exports = {
       './index.html',
       './src/**/*.{vue,js,ts,jsx,tsx}',
     ],
-    theme: {
-      extend: {},
+    daisyui: {
+      themes: ["retro"],
     },
     plugins: [require('daisyui')],
   };
