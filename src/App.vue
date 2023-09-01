@@ -6,7 +6,7 @@
 </template>
 <style>
   main {
-    background-image: url('./assets/Background.jpg');
+    background-image: url('./assets/');
   }
 </style>
 
