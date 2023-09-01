@@ -7,7 +7,7 @@
       class="bg-white max-w-lg mx-auto p-8 md:p-12 my-10 rounded-lg shadow-2xl"
     >
       <section>
-        <h3 class="font-bold text-2xl">TO DO APP</h3>
+        <h3 class="font-bold text-2xl">TO DO LIST!</h3>
         <p class="text-gray-600 pt-2">Create your account.</p>
       </section>
 
@@ -67,7 +67,7 @@
             >
           </div>
           <button
-            class="bg-red-600 hover:bg-red-700 text-white font-bold py-2 rounded shadow-lg
+            class="bg-gray-600 hover:bg-red-700 text-white font-bold py-2 rounded shadow-lg
             hover:shadow-xl transition duration-200"
             type="submit"
           >
